@@ -1,0 +1,17 @@
+{
+    "name": "stintultraexpanded-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/stintultraexpanded-bower.git"
+    },
+    "description": "Stint Ultra Expanded font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
